@@ -2,9 +2,9 @@ Name,English,Translation,Restrictions,Comment
 _Language,Simplified Chinese,Simplified Chinese,,Language name - in English
 _LanguageCode,zh,zh,,standard windows os language code this pack represents (can be primary code only ie. en or primary-secondary ie. en-GB)
 _LanguageNative,Simplified Chinese,简体中文,,Language name in the native language
-GMStdSeqSetHead_Story_1,"Set head position (in frames) of sequence instance ${sequenceelmid} to ${var}",“将序列实例${sequenceelmid}的头部位置(以帧为单位)设置为${var}”,,GML Visual story text
-GMStdSeqGetHead_Story_1,"Get head position (in frames) of sequence instance ${sequenceelmid} into ${var}",“将序列实例${sequenceelmid}的头部位置(以帧为单位)获取到${var}”,,GML Visual story text
-GMStdSeqGetHead_Story_2,"Get head position (in frames) of sequence instance ${sequenceelmid} into temp ${var}",“将序列实例${sequenceelmid}的头部位置(以帧为单位)获取到临时${var}”,,GML Visual story text
+GMStdSeqSetHead_Story_1,Set head position (in frames) of sequence instance ${sequenceelmid} to ${var},将序列实例${sequenceelmid}的头部位置(以帧为单位)设置为${var},,GML Visual story text
+GMStdSeqGetHead_Story_1,Get head position (in frames) of sequence instance ${sequenceelmid} into ${var},将序列实例${sequenceelmid}的头部位置(以帧为单位)获取到${var},,GML Visual story text
+GMStdSeqGetHead_Story_2,Get head position (in frames) of sequence instance ${sequenceelmid} into temp ${var},将序列实例${sequenceelmid}的头部位置(以帧为单位)获取到临时${var},,GML Visual story text
 GMStdVar_Story_1,Set ${var} to ${expr}${show_input_count},设置${var}为${expr}${show_input_count},,GML Visual story text
 GMStdVar_Story_2,Set ${var} to ${expr} on ${applyto}${show_input_count},在${applyto}${show_input_count}上将${var}设置为${expr},,GML Visual story text
 GMStdVar_Story_3,Add ${expr} to ${var}${show_input_count},在${var}${show_input_count}中添加${expr},,GML Visual story text
@@ -190,8 +190,8 @@ GMStdSeqGetPos_Story_1,Get position of sequence instance ${sequenceelmid} into $
 GMStdSeqGetPos_Story_2,Get position of sequence instance ${sequenceelmid} into temp ${varx} and ${vary},将序列实例${sequenceelmid}的位置放入临时值${varx}和${vary}中,,GML Visual story text
 GMStdSeqGetPos_Story_3,Get position of sequence instance ${sequenceelmid} into ${varx} and temp ${vary},将序列实例${sequenceelmid}的位置放入${varx}和临时${vary}中,,GML Visual story text
 GMStdSeqGetPos_Story_4,Get position of sequence instance ${sequenceelmid} into temp ${varx} and temp ${vary},将序列实例${sequenceelmid}的位置放入临时文件${varx}和临时文件${vary}中,,GML Visual story text
-GMStdSeqGetLength_Story_1,"Get length of sequence instance ${sequenceelmid} into ${var}",“将序列实例${sequenceelmid}的长度获取到${var}”,,GML Visual story text
-GMStdSeqGetLength_Story_2,"Get length of sequence instance ${sequenceelmid} into temp ${var}",“将序列实例${sequenceelmid}的长度获取到临时${var}”,,GML Visual story text
+GMStdSeqGetLength_Story_1,Get length of sequence instance ${sequenceelmid} into ${var},将序列实例${sequenceelmid}的长度获取到${var},,GML Visual story text
+GMStdSeqGetLength_Story_2,Get length of sequence instance ${sequenceelmid} into temp ${var},将序列实例${sequenceelmid}的长度获取到临时${var},,GML Visual story text
 GMStdIfMousePressed_Story_1,If mouse button ${button} is pressed,如果鼠标按钮${button}被按下了,,GML Visual story text
 GMStdIfMousePressed_Story_2,If mouse button ${button} is pressed on ${applyto},如果在${applyto}上按下了鼠标按钮${button}，那么就会有一个新的应用,,GML Visual story text
 GMStdIfMousePressed_Story_3,If mouse button ${button} is not pressed,如果鼠标按钮${button}没有被按下,,GML Visual story text
@@ -417,18 +417,18 @@ GMStdDrawValue_Story_1,Draw  at ${dnd_position},在${dnd_position}处画图,,GML
 GMStdDrawValue_Story_2,Draw  at ${dnd_position} on ${applyto},在${applyto}上的${dnd_position}处画图,,GML Visual story text
 GMStdDrawValue_Story_3,Draw  ${var} at ${dnd_position},在${dnd_position}处绘制${var},,GML Visual story text
 GMStdDrawValue_Story_4,Draw  ${var} at ${dnd_position} on ${applyto},在${applyto}上的${dnd_position}处绘制${var},,GML Visual story text
-GMStdDrawValue_Story_5,"Draw "${caption}" at ${dnd_position}","在 ${dnd_position} 处绘制 "${caption}"",,GML Visual story text
-GMStdDrawValue_Story_6,"Draw "${caption}" at ${dnd_position} on ${applyto}","在 ${applyto} 上的 ${dnd_position} 处绘制 "${caption}"",,GML Visual story text
-GMStdDrawValue_Story_7,"Draw "${caption}" ${var} at ${dnd_position}","在 ${dnd_position} 处绘制 "${caption}" ${var}",,GML Visual story text
-GMStdDrawValue_Story_8,"Draw "${caption}" ${var} at ${dnd_position} on ${applyto}","在 ${applyto} 上的 ${dnd_position} 处绘制 "${caption}" ${var}",,GML Visual story text
+GMStdDrawValue_Story_5,"Draw ""${caption}"" at ${dnd_position}","在 ${dnd_position} 处绘制 ""${caption}""",,GML Visual story text
+GMStdDrawValue_Story_6,"Draw ""${caption}"" at ${dnd_position} on ${applyto}","在 ${applyto} 上的 ${dnd_position} 处绘制 ""${caption}""",,GML Visual story text
+GMStdDrawValue_Story_7,"Draw ""${caption}"" ${var} at ${dnd_position}","在 ${dnd_position} 处绘制 ""${caption}"" ${var}",,GML Visual story text
+GMStdDrawValue_Story_8,"Draw ""${caption}"" ${var} at ${dnd_position} on ${applyto}","在 ${applyto} 上的 ${dnd_position} 处绘制 ""${caption}"" ${var}",,GML Visual story text
 GMStdDrawValueTransformed_Story_1,Draw transformed  at ${dnd_position},在${dnd_position}处绘制变形图,,GML Visual story text
 GMStdDrawValueTransformed_Story_2,Draw transformed  at ${dnd_position} on ${applyto},在${applyto}上的${dnd_position}处绘制变形图,,GML Visual story text
 GMStdDrawValueTransformed_Story_3,Draw transformed  ${var} at ${dnd_position},在${dnd_position}处绘制变换后的${var},,GML Visual story text
 GMStdDrawValueTransformed_Story_4,Draw transformed  ${var} at ${dnd_position} on ${applyto},在${applyto}上的${dnd_position}处绘制变换后的${var},,GML Visual story text
-GMStdDrawValueTransformed_Story_5,"Draw transformed "${caption}" at ${dnd_position}","在 ${dnd_position} 处绘制转换的 "${caption}"",,GML Visual story text
-GMStdDrawValueTransformed_Story_6,"Draw transformed "${caption}" at ${dnd_position} on ${applyto}","在 ${applyto} 上的 ${dnd_position} 处绘制转换的 "${caption}"",,GML Visual story text
-GMStdDrawValueTransformed_Story_7,"Draw transformed "${caption}" ${var} at ${dnd_position}","在 ${dnd_position} 处绘制转换的 "${caption}" ${var}",,GML Visual story text
-GMStdDrawValueTransformed_Story_8,"Draw transformed "${caption}" ${var} at ${dnd_position} on ${applyto}","在 ${applyto} 上的 ${dnd_position} 处绘制转换的 "${caption}" ${var}",,GML Visual story text
+GMStdDrawValueTransformed_Story_5,"Draw transformed ""${caption}"" at ${dnd_position}","在 ${dnd_position} 处绘制转换的 ""${caption}""",,GML Visual story text
+GMStdDrawValueTransformed_Story_6,"Draw transformed ""${caption}"" at ${dnd_position} on ${applyto}","在 ${applyto} 上的 ${dnd_position} 处绘制转换的 ""${caption}""",,GML Visual story text
+GMStdDrawValueTransformed_Story_7,"Draw transformed ""${caption}"" ${var} at ${dnd_position}","在 ${dnd_position} 处绘制转换的 ""${caption}"" ${var}",,GML Visual story text
+GMStdDrawValueTransformed_Story_8,"Draw transformed ""${caption}"" ${var} at ${dnd_position} on ${applyto}","在 ${applyto} 上的 ${dnd_position} 处绘制转换的 ""${caption}"" ${var}",,GML Visual story text
 GMStdDrawSprite_Story_1,Draw sprite ${sprite} frame ${image} at ${dnd_position},在${dnd_position}处绘制精灵${sprite}帧${image},,GML Visual story text
 GMStdDrawSprite_Story_2,Draw sprite ${sprite} frame ${image} at ${dnd_position} on ${applyto},在${applyto}上的${dnd_position}处绘制精灵${sprite}帧${image},,GML Visual story text
 GMStdDrawSpriteExt_Story_1,"Draw transformed sprite ${sprite} frame ${frame} with scale ${xscale},${yscale} and rotation ${rot}","绘制变换后的精灵${sprite}帧${frame}，并使用缩放${xscale},${yscale}和旋转${rot}",,GML Visual story text
@@ -454,9 +454,9 @@ GMStdDrawLine_Story_2,Draw line from ${dnd_position1} to ${dnd_position2} on ${a
 GMStdDrawHealthbar_Story_1,Draw healthbar from ${dnd_position1} to ${dnd_position2} with value ${value},从${dnd_position1}到${dnd_position2}绘制健康条，数值为${value},,GML Visual story text
 GMStdDrawHealthbar_Story_2,Draw healthbar from ${dnd_position1} to ${dnd_position2} with value ${value} on ${applyto},在${applyto}上从${dnd_position1}到${dnd_position2}画出健康条，数值为${value},,GML Visual story text
 GMStdDrawInstanceScore_Story_1,Draw score at ${dnd_position},在${dnd_position}处抽取分数,,GML Visual story text
-GMStdDrawInstanceScore_Story_2,"Draw score at ${dnd_position} with caption "${caption}"","在标题为 "${caption}" 的 ${dnd_position} 处绘制分数",,GML Visual story text
+GMStdDrawInstanceScore_Story_2,"Draw score at ${dnd_position} with caption ""${caption}""","在标题为 ""${caption}"" 的 ${dnd_position} 处绘制分数",,GML Visual story text
 GMStdDrawInstanceScore_Story_3,Draw ${applyto}'s score at ${dnd_position} on ${applyto},在${applyto}的${dnd_position}处抽出${applyto}的分数,,GML Visual story text
-GMStdDrawInstanceScore_Story_4,"Draw ${applyto}'s score at ${dnd_position} with caption "${caption}" on ${applyto}","在 ${applyto} 上标题为 "${caption}" 的 ${dnd_position} 处绘制 ${applyto} 的分数",,GML Visual story text
+GMStdDrawInstanceScore_Story_4,"Draw ${applyto}'s score at ${dnd_position} with caption ""${caption}"" on ${applyto}","在 ${applyto} 上标题为 ""${caption}"" 的 ${dnd_position} 处绘制 ${applyto} 的分数",,GML Visual story text
 GMStdDrawInstanceHealth_Story_1,Draw healthbar from ${dnd_position1} to ${dnd_position2},将健康条从${dnd_position1}画到${dnd_position2},,GML Visual story text
 GMStdDrawInstanceHealth_Story_2,Draw ${applyto}'s healthbar from ${dnd_position1} to ${dnd_position2} on ${applyto},将${applyto}的健康条从${dnd_position1}画到${dnd_position2}上,,GML Visual story text
 GMStdDrawInstanceLives_Story_1,Draw lives in a row at ${dnd_position},在${dnd_position}处画一排生命,,GML Visual story text

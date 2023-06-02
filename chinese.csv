@@ -42,7 +42,6 @@ aboutbox_time_in_ide,Time in IDE,IDE运行时间,,Overall Time spent in IDE
 aboutbox_username,Username:,用户名：,,Username in About Box
 Account_Menu_Login,Login,登录,,"Account menu ""Login"""
 Account_Menu_Logout,Logout,登出,,"Acount menu ""Logout"""
-Account_Menu_ManageAccount,Manage Account,管理账户,,"Account menu ""Account"""
 ACL_bounce,Bounce,反弹缓动,,anim curve library curve name
 ACL_ease,Ease,缓慢,,anim curve library curve name
 ACL_easeBack,Back,返回,,anim curve library curve name
@@ -53,7 +52,7 @@ ACL_easeQuart,Quart,四次方缓动,,anim curve library curve name
 ACL_elastic,Elastic,正弦曲线缓动,,anim curve library curve name
 ACL_fastOutSlowIn,Fast To Slow,快到慢,,anim curve library curve name
 ACL_linear,Linear,线性,,anim curve library curve name
-ACL_ResetTip,Select "Reset" to revert curve to initial state.,选择“重置”将曲线恢复到初始状态。,,anim curve library reset tip
+ACL_ResetTip,"Select ""Reset"" to revert curve to initial state.",选择“重置”将曲线恢复到初始状态。,,anim curve library reset tip
 ACL_slowMiddle,Mid Slow,中慢,,anim curve library curve name
 AdaptiveIcons,Adaptive Icons,自适应图标,,Adaptive Icons group subheading
 adddefaultlayers_description,Add default room layers,添加默认房间层,,Description for adding default layers
@@ -1473,7 +1472,7 @@ exception_dont_send_caption,Don't Send,不发送,,exception dont send button cap
 exception_faq_button_caption,"To see what data this report contains, <a href=""https://help.yoyogames.com/hc/en-us/articles/360028120992"">click here</a>","了解此报告所含内容项, <a href=""https://help.yoyogames.com/hc/en-us/articles/360028120992"">click here</a>",,exception faq button caption
 exception_fatal_error_header_caption,A fatal exception has occurred in GameMaker and the program needs to close.\n\nWe are sorry for the inconvenience.,GameMaker发生了崩溃性异常，该程序需立刻关闭。\n\n 给您带来的不便，我们深表歉意.,,exception fatal error header caption
 exception_form_version,crash-0.2,crash-0.2,,exception form version
-exception_legal_blurb,"Our <a href="https://www.yoyogames.com/legal/privacy">Privacy Policy</a> and <a href="https://www.yoyogames.com/legal/cookies">Cookie Policy</a> governs the way we collect, store and process your data. We strongly recommend you take the time to read them.\n\nRight to withdraw consent: You have the right to withdraw consent at any time. If you wish to withdraw consent, you may do so via our Preference Centre, or by logging a ticket with our Helpdesk.\n\nIf you have any concerns about our use of data, please email our data controller at <a href="mailto:datacontroller@yoyogames.com">datacontroller@yoyogames.com</a>\n\nForm version: ","Our <a href="https://www.yoyogames.com/legal/privacy">Privacy Policy</a> and <a href="https://www.yoyogames.com/legal/cookies">Cookie Policy</a> governs the way we collect, store and process your data. We strongly recommend you take the time to read them.\n\nRight to withdraw consent: You have the right to withdraw consent at any time. If you wish to withdraw consent, you may do so via our Preference Centre, or by logging a ticket with our Helpdesk.\n\nIf you have any concerns about our use of data, please email our data controller at <a href="mailto:datacontroller@yoyogames.com">datacontroller@yoyogames.com</a>\n\nForm version: ",,exception legal blurb
+exception_legal_blurb,"Our <a href=""https://www.yoyogames.com/legal/privacy"">Privacy Policy</a> and <a href=""https://www.yoyogames.com/legal/cookies"">Cookie Policy</a> governs the way we collect, store and process your data. We strongly recommend you take the time to read them.\n\nRight to withdraw consent: You have the right to withdraw consent at any time. If you wish to withdraw consent, you may do so via our Preference Centre, or by logging a ticket with our Helpdesk.\n\nIf you have any concerns about our use of data, please email our data controller at <a href=""mailto:datacontroller@yoyogames.com"">datacontroller@yoyogames.com</a>\n\nForm version: ","Our <a href=""https://www.yoyogames.com/legal/privacy"">Privacy Policy</a> and <a href=""https://www.yoyogames.com/legal/cookies"">Cookie Policy</a> governs the way we collect, store and process your data. We strongly recommend you take the time to read them.\n\nRight to withdraw consent: You have the right to withdraw consent at any time. If you wish to withdraw consent, you may do so via our Preference Centre, or by logging a ticket with our Helpdesk.\n\nIf you have any concerns about our use of data, please email our data controller at <a href=""mailto:datacontroller@yoyogames.com"">datacontroller@yoyogames.com</a>\n\nForm version: ",,exception legal blurb
 exception_privacy_policy_caption,Privacy Policy,隐私政策,,exception privacy policy
 exception_problem_header_caption,Please tell us about this problem.,请将此问题汇报给我们,,exception problem header caption
 exception_send_caption,Send,发送,,exception send button caption
@@ -1708,7 +1707,7 @@ folderwatcher_frequency,File watcher frequency (ms),文件观察频率(毫秒),,
 folderwatcher_laptopfrequency,Laptop file watcher frequency (ms),笔记本电脑文件观察频率 (毫秒),,File watcher frequency in milliseconds on laptops
 Font Editor,Font Editor,字体编辑器,,Font editor preference group heading
 Font_CannotRegenerate_FontNotAvailable,Font {0} texture generation skipped (font is not available on this machine),字体 {0} 的纹理生成已跳过（字体在此机器上不可用）,,Font generation failed
-Font_TooLargeTexPage,"Font """"{0}"""" packs more characters than can fit on the texture page. Some characters will not be visible.","字体""""{0}""""包含的字符数超出纹理页面上可容纳的字符数。某些字符将不可见。",,Font too large for texture page warning dialog
+Font_TooLargeTexPage,"Font ""{0}"" packs more characters than can fit on the texture page. Some characters will not be visible.","字体""{0}""包含的字符数超出纹理页面上可容纳的字符数。某些字符将不可见。",,Font too large for texture page warning dialog
 Font_TTF_BaseAlphabet,"!\""#$%&'()*+,-./00300123456789:;<=>?0040@ABCDEFGHIJKLMNO0050PQRSTUVWXYZ[\\]^_0060`abcdefghijklmno0070pqrstuvwxyz{}|~",,,FontTTF standard English alphabet<
 fonteditor_aa_default,Default,默认,,Default setting for font AA
 fonteditor_aa_off,Off,关,,Font Editor aa off
@@ -2310,8 +2309,8 @@ ggs_wxga_resolution,Support WXGA Resolution,支持 WXGA 分辨率,,Support WXGA 
 ggs_x64,x64,x64,,x64 setting
 ggs_x86,x86,x86,,x86 setting
 ggs_xbox_program_id,Program ID,程序 ID,,Program Id
-ggs_xboxone_stats_2013,Event-Based Stats ("Stats 2013"),Event-Based Stats ("Stats 2013"),,the radio group option for 2013 stats
-ggs_xboxone_stats_2017,Title-Managed Stats ("Stats 2017"),Title-Managed Stats ("Stats 2017"),,the radio group option for 2017 stats
+ggs_xboxone_stats_2013,"Event-Based Stats (""Stats 2013"")","Event-Based Stats (""Stats 2013"")",,the radio group option for 2013 stats
+ggs_xboxone_stats_2017,"Title-Managed Stats (""Stats 2017"")","Title-Managed Stats (""Stats 2017"")",,the radio group option for 2017 stats
 ggs_xboxone_stats_system,Stats configuration system,统计配置系统,,Stats configuration system
 ggs_xboxone_stats_system_tooltip,The 2013 system has been deprecated by Microsoft and should only be used for titles already in development \nThe 2017 system no longer requires a service manifest \nPlease see Microsoft documentation for more details,2013年系统已被Microsoft弃用，只应用于已在开发的标题\n 2017系统不再需要服务清单\n请参阅Microsoft文档了解更多详细信息,,tooltip for the stats sytem radio group
 ggs_xboxone_support_4k_one_s,Support 4k on Xbox One S,Support 4k on Xbox One S,,Support 4k output resolution on Xbox One S
@@ -2331,8 +2330,8 @@ Global Variables,Global Variables,全局变量,,Global Variables preference grou
 Gmez_NoProject,Gmez Import: No project to import into,Gmez 导入：没有要导入的项目,,Error when importing without a project loaded
 GML,GML Code,GML Code,,GML Code preference group subheading
 GMScript_DefaultComment,// Script assets have changed for v2.3.0 see\n// https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information,// v2.3.0的脚本资产已更改，请参见\ n // https://help.yoyogames.com/hc/en-us/articles/360005277377,,default script comment
-GMScript_DnDBoilerPlate,/// @DnDAction : YoYo Games.Common.Function\n/// @DnDVersion : 1\n/// @DnDHash : ${hash}\n/// @DnDComment : ${comment}\n/// @DnDArgument : "funcName" "${funcName}"\nfunction ${funcName}(){\n\n},/// @DnDAction :YoYo Games.Common.Function\n/// @DnDVersion :1\n/// @DnDHash : ${hash}\n/// @DnDComment : ${comment}\n/// @DnDArgument : "funcName" "${funcName}"\nfunction ${funcName}(){\n\n},,GML Boiler plate for a new script
-GMScript_DnDFuncDecl,/// @DnDAction : YoYo Games.Common.Function\n/// @DnDVersion : 1\n/// @DnDHash : ${hash}\n/// @DnDArgument : "funcName" "${funcName}"\nfunction ${funcName}(){\n\n},/// @DnDAction :YoYo Games.Common.Function\n/// @DnDVersion :1\n/// @DnDHash : ${hash}\n/// @DnDArgument : "funcName" "${funcName}"\nfunction ${funcName}(){\n\n},,GML function declaration template
+GMScript_DnDBoilerPlate,"/// @DnDAction : YoYo Games.Common.Function\n/// @DnDVersion : 1\n/// @DnDHash : ${hash}\n/// @DnDComment : ${comment}\n/// @DnDArgument : ""funcName"" ""${funcName}""\nfunction ${funcName}(){\n\n}","/// @DnDAction :YoYo Games.Common.Function\n/// @DnDVersion :1\n/// @DnDHash : ${hash}\n/// @DnDComment : ${comment}\n/// @DnDArgument : ""funcName"" ""${funcName}""\nfunction ${funcName}(){\n\n}",,GML Boiler plate for a new script
+GMScript_DnDFuncDecl,"/// @DnDAction : YoYo Games.Common.Function\n/// @DnDVersion : 1\n/// @DnDHash : ${hash}\n/// @DnDArgument : ""funcName"" ""${funcName}""\nfunction ${funcName}(){\n\n}","/// @DnDAction :YoYo Games.Common.Function\n/// @DnDVersion :1\n/// @DnDHash : ${hash}\n/// @DnDArgument : ""funcName"" ""${funcName}""\nfunction ${funcName}(){\n\n}",,GML function declaration template
 GMStdAbsolute,Absolute,绝对,,GML Visual argument label
 GMStdAdditiveBlend,Blend,混合,,GML Visual 
 GMStdDirection,Direction,Direction,,GML Visual library argument label
@@ -2864,24 +2863,24 @@ GMStdSeqCreate_Desc,Creates an instance of a sequence.,创建序列实例。,,GM
 GMStdSeqCreate_Name,Create Sequence,创建序列,,GML Visual library action name
 GMStdSeqDestroy_Desc,Destroys an instance of a sequence and remove it from the room.,销毁序列实例并将其从房间中删除。,,GML Visual library action description
 GMStdSeqDestroy_Name,Destroy Sequence,销毁序列,,GML Visual library action name
-GMStdSeqGetHead_Desc,"Gets the head position (in frames) of a sequence element.",“获取序列元素的头部位置(以帧为单位)。”,,GML Visual library action description
-GMStdSeqGetHead_Name,"Get Sequence Head",“获取序列头”,,GML Visual library action name
-GMStdSeqGetHead_Story_1,"Get head position (in frames) of sequence instance ${sequenceelmid} into ${var}",“将序列实例${sequenceelmid}的头部位置(以帧为单位)获取到${var}”,,GML Visual story text
-GMStdSeqGetHead_Story_2,"Get head position (in frames) of sequence instance ${sequenceelmid} into temp ${var}",“将序列实例${sequenceelmid}的头部位置(以帧为单位)获取到临时${var}”,,GML Visual story text
-GMStdSeqGetLength_Desc,"Gets the length of a sequence element.",“获取序列元素的长度。”,,GML Visual library action description
-GMStdSeqGetLength_Name,"Get Sequence Length",“获取序列长度”,,GML Visual library action name
-GMStdSeqGetLength_Story_1,"Get length of sequence instance ${sequenceelmid} into ${var}",“将序列实例${sequenceelmid}的长度获取到${var}”,,GML Visual story text
-GMStdSeqGetLength_Story_2,"Get length of sequence instance ${sequenceelmid} into temp ${var}",“将序列实例${sequenceelmid}的长度获取到临时${var}”,,GML Visual story text
+GMStdSeqGetHead_Desc,Gets the head position (in frames) of a sequence element.,“获取序列元素的头部位置(以帧为单位)。”,,GML Visual library action description
+GMStdSeqGetHead_Name,Get Sequence Head,“获取序列头”,,GML Visual library action name
+GMStdSeqGetHead_Story_1,Get head position (in frames) of sequence instance ${sequenceelmid} into ${var},“将序列实例${sequenceelmid}的头部位置(以帧为单位)获取到${var}”,,GML Visual story text
+GMStdSeqGetHead_Story_2,Get head position (in frames) of sequence instance ${sequenceelmid} into temp ${var},“将序列实例${sequenceelmid}的头部位置(以帧为单位)获取到临时${var}”,,GML Visual story text
+GMStdSeqGetLength_Desc,Gets the length of a sequence element.,“获取序列元素的长度。”,,GML Visual library action description
+GMStdSeqGetLength_Name,Get Sequence Length,“获取序列长度”,,GML Visual library action name
+GMStdSeqGetLength_Story_1,Get length of sequence instance ${sequenceelmid} into ${var},“将序列实例${sequenceelmid}的长度获取到${var}”,,GML Visual story text
+GMStdSeqGetLength_Story_2,Get length of sequence instance ${sequenceelmid} into temp ${var},“将序列实例${sequenceelmid}的长度获取到临时${var}”,,GML Visual story text
 GMStdSeqGetPosition_Desc,Sets the values of the x and y variables to the position of the sequence.,将x和y变量的值设置为序列的位置。,,GML Visual library action description
 GMStdSeqGetPosition_Name,Get Sequence Position,获取序列位置,,GML Visual library action name
-GMStdSeqHead,"Head (frames)",“头(帧)”,,GML Visual library argument label
+GMStdSeqHead,Head (frames),“头(帧)”,,GML Visual library argument label
 GMStdSeqPause_Desc,Pauses the sequence.,暂停序列。,,GML Visual library action description
 GMStdSeqPause_Name,Pause Sequence,暂停序列,,GML Visual library action name
 GMStdSeqPlay_Desc,Plays the sequence.,演示序列,,GML Visual library action description
 GMStdSeqPlay_Name,Play Sequence,演示序列,,GML Visual library action name
-GMStdSeqSetHead_Desc,"Sets the head position (in frames) of a sequence element.",“设置序列元素的头部位置(以帧为单位)。”,,GML Visual library action description
-GMStdSeqSetHead_Name,"Set Sequence Head",“设置序列头”,,GML Visual library action name
-GMStdSeqSetHead_Story_1,"Set head position (in frames) of sequence instance ${sequenceelmid} to ${var}",“将序列实例${sequenceelmid}的头部位置(以帧为单位)设置为${var}”,,GML Visual story text
+GMStdSeqSetHead_Desc,Sets the head position (in frames) of a sequence element.,“设置序列元素的头部位置(以帧为单位)。”,,GML Visual library action description
+GMStdSeqSetHead_Name,Set Sequence Head,“设置序列头”,,GML Visual library action name
+GMStdSeqSetHead_Story_1,Set head position (in frames) of sequence instance ${sequenceelmid} to ${var},“将序列实例${sequenceelmid}的头部位置(以帧为单位)设置为${var}”,,GML Visual story text
 GMStdSeqSetPosition_Desc,Sets the position of the sequence.,设置序列位置。,,GML Visual library action description
 GMStdSeqSetPosition_Name,Set Sequence Position,设置序列位置,,GML Visual library action name
 GMStdSequence,Sequence,序列,,GML Visual library argument label
@@ -3233,7 +3232,7 @@ ImageEditor_AddLayer_TT,Add Layer To All Frames,将图层添加到所有帧,,ima
 ImageEditor_AddLayerGroup_TT,Add Layer Group,添加图层组,,image editor layer tooltip
 ImageEditor_AllLayers,All Layers,所有层,,effect all layers option
 ImageEditor_Arc_Iterations,Iterations:,迭代数：,,Iterations slider label for Arc Tool
-ImageEditor_ArcTool_Info,"Click to add a point, drag to move ({0} - move control point; {1} - snap; Enter - commit)","单击以添加点，拖动以移动（{0} - 移动控制点；{1} - 对齐；Enter - 提交）",,image editor tool info
+ImageEditor_ArcTool_Info,"Click to add a point, drag to move ({0} - move control point; {1} - snap; Enter - commit)",单击以添加点，拖动以移动（{0} - 移动控制点；{1} - 对齐；Enter - 提交）,,image editor tool info
 ImageEditor_AutoTrim,Auto Trim All Frames,自动裁切所有帧,,Image editor - auto trim all frames
 imageeditor_backgroundcolour,Editor background colour,编辑器背景颜色,,Background colour in image editor
 ImageEditor_Blur,Blur,模糊,,ie blur label
@@ -3332,7 +3331,7 @@ ImageEditor_LayerProperties,Layer Properties,图层属性,,Image layer propertie
 ImageEditor_LineTool_Info,Click and drag to draw a line ({0} for a straight line),单击并拖动以画直线（直线为 {0}）,,image editor tool info
 ImageEditor_Loop_Tooltip,Toggle loop/ping-pong,切换 循环/往返,,Image editor loop/ping pong button tooltip
 ImageEditor_LoopBurger_Tooltip,Loop mode,循环模式,,burger button tooltip
-ImageEditor_MagicWand_Info,"Click to replace selection ({0} to add to selection, {1} to subtract from selection)","单击以更换选定内容（{0} 以添加至选定内容，{1} 以从选定内容中删减）",,image editor tool info
+ImageEditor_MagicWand_Info,"Click to replace selection ({0} to add to selection, {1} to subtract from selection)",单击以更换选定内容（{0} 以添加至选定内容，{1} 以从选定内容中删减）,,image editor tool info
 ImageEditor_Menu_AllFrames,All Frames,所有帧,,Image editor menu flip animation
 ImageEditor_Menu_CurrentFrame,Selected Frames,选中的帧,,Image editor menu flip current frame
 ImageEditor_Menu_Flip,Flip,翻转,,Image editor menu flip
@@ -3353,8 +3352,8 @@ ImageEditor_OnionSkinFramesBack,Frames back,后方帧数,,Image editor onion ski
 ImageEditor_OnionSkinFramesFwd,Frames forwards,前方帧数,,Image editor onion skin settings label
 ImageEditor_OnionSkinSettings,Onion Skin Settings,洋葱皮设置,,Image editor onion skin settings title
 ImageEditor_OnionSkinTint,Colour,颜色,,Image editor onion skin settings label
-ImageEditor_Paintbrush_Info,"Click to paint ({0} for a straight line, {1} to pick a colour)","单击以绘图（直线为 {0}，{1} 以选择颜色）",,image editor tool info
-ImageEditor_PaintSelectTool_Info,"Paint selection ({0} to add, {1}/right click to subtract)","绘图选择工具（{0} 以添加，{1}/ 右击以删减）",,image editor tool info
+ImageEditor_Paintbrush_Info,"Click to paint ({0} for a straight line, {1} to pick a colour)",单击以绘图（直线为 {0}，{1} 以选择颜色）,,image editor tool info
+ImageEditor_PaintSelectTool_Info,"Paint selection ({0} to add, {1}/right click to subtract)",绘图选择工具（{0} 以添加，{1}/ 右击以删减）,,image editor tool info
 ImageEditor_PanTool_Info,Click and drag to pan,点击拖动以平移,,image editor tool info
 ImageEditor_Paste,Paste,粘贴,,Image editor menu option -Paste
 ImageEditor_Paste_ResizeCanvas,Resize canvas to pasted image size ({0} x {1})?,将画布调整为粘贴图像大小（{0} x {1}）？,,Image editor import resize canvas pasted image
@@ -3384,7 +3383,7 @@ ImageEditor_SelectedLayer,Selected Layer,选择图层,,effect selected layer opt
 ImageEditor_SelectEllipseTool_Info,"Click and drag to replace selection (${ctrl} to add to selection, Alt to subtract from selection)",点击并拖拽替换选区 (${ctrl} 添加到选区， Alt 减去选区),,image editor tool info
 imageeditor_selectioncolour1,Selection outline primary colour,选中轮廓颜色1,,Selection colour 1
 imageeditor_selectioncolour2,Selection outline secondary colour,选中轮廓颜色 2,,Selection colour 2
-ImageEditor_SelectRectTool_Info,"Click and drag to replace selection ({0} to add to selection, {1} to subtract from selection)","单击并拖动以更换选定内容（{0} 以添加至选定内容，{1} 以从选定内容中删减）",,image editor tool info
+ImageEditor_SelectRectTool_Info,"Click and drag to replace selection ({0} to add to selection, {1} to subtract from selection)",单击并拖动以更换选定内容（{0} 以添加至选定内容，{1} 以从选定内容中删减）,,image editor tool info
 ImageEditor_ShiftLayerDown_TT,Shift Layer Down,图层下移,,image editor shift layer down tooltip
 ImageEditor_ShiftLayerUp_TT,Shift Layer Up,图层上移,,image editor shift layer up tooltip
 ImageEditor_SnapToGrid,Snap to grid,对齐网格,,Image editor snap to grid
@@ -3862,7 +3861,7 @@ Loading,Loading...,载入中...,,Loading
 Local Variables,Local Variables,局部变量,,Local Variables preference group subheading
 LocalisedManual_DownloadFailed,An error occurred while trying to download the manual,尝试下载帮助文档时发生错误,,Error while downloading the manual
 LocalisedManual_DownloadFailedTitle,Manual download failed,帮助文档下载失败,,The download of the manual failed
-LocalisedManual_DownloadMsg,"The manual for the current manual language ({0}) is not installed. Would you like to download it now, or use the online help?","未安装当前手册语言({0})的手册。您是现在下载，还是使用联机帮助？",,manual download message
+LocalisedManual_DownloadMsg,"The manual for the current manual language ({0}) is not installed. Would you like to download it now, or use the online help?",未安装当前手册语言({0})的手册。您是现在下载，还是使用联机帮助？,,manual download message
 LocalisedManual_NotInstalled,Would you like to download this manual?,您想下载本帮助文档吗？,,Localised manual not installed text
 LocalisedManual_NotInstalledTitle,Localised manual not installed,未安装本地化帮助文档,,Localised manual not installed title
 LocalisedManual_NotLocalised,The manual is not currently localised for this language,该帮助文档目前尚未针对此语言进行本地化,,Manual not localised message
@@ -4032,7 +4031,7 @@ MPackage_DisplayNameInvalid,Display name is invalid,显示名称无效,,marketpl
 MPackage_DisplayNameRestrictions,Display name restrictions,显示名称限制,,package display name restrictions label
 MPackage_DisplayNameRule1,- Must be between 5 and 30 characters long,- 必须在5-30字符之间,,asset create restriction label
 MPackage_DisplayNameRule2,- Must start with a letter,- 必须以字母开头,,asset create restriction label
-MPackage_DisplayNameRule3,"- May only contain letters, numbers, dashes and underscores","- 只能包含字母、数字、短横线和下划线",,asset create restriction label
+MPackage_DisplayNameRule3,"- May only contain letters, numbers, dashes and underscores",- 只能包含字母、数字、短横线和下划线,,asset create restriction label
 MPackage_Keep,Keep,保留,,package import keep
 MPackage_KeepAll,Keep All,保留全部,,package import keep all existing resources
 MPackage_NewPackageInfo_Demo,IMPORTANT: The package ID cannot be changed once your asset has been created. The asset category will be set to 'Demo' on upload,重要提示：创建资产后，无法更改程序包ID。上传时物品类别将设置为“Demo”,,mplace category setting message
@@ -4530,7 +4529,7 @@ PathEditor_SplineContextMenu_Reverse,Reverse,反向,,Path spline editor context 
 PathEditor_SplineEditor_AddTip,Left Mouse Button: Add & Drag Anchor,鼠标左键(LMB)：添加&拖动锚点,,Path spline editor help tip
 PathEditor_SplineEditor_Area,"Area: {0},{1} {2},{3}","范围：{0},{1} {2},{3}",,Path spline editor area location
 PathEditor_SplineEditor_Cursor,"Cursor: {0},{1}","光标： {0},{1}",,Path spline editor cursor location
-PathEditor_SplineEditor_EditTip,"{0}+LMB: Translate, {1}+LMB: Rotate, {2}+LMB: Scale","{0}+LMB：转换，{1}+LMB：旋转，{2}+LMB:缩放",,Path spline editor help tip
+PathEditor_SplineEditor_EditTip,"{0}+LMB: Translate, {1}+LMB: Rotate, {2}+LMB: Scale",{0}+LMB：转换，{1}+LMB：旋转，{2}+LMB:缩放,,Path spline editor help tip
 PathEditor_StraightLines,Straight Lines,直线,,Path editor straight lines connection kind
 PathEditor_ToolTip_ShiftPath,Shift Path,偏移路径,,Path editor tool tip
 PathEditor_ToolTip_SnapGrid,Snap Path To Grid,将路径吸附到网格,,Path editor tool tip
@@ -4857,7 +4856,7 @@ ResourceNode_OpenProperties,Open Properties,打开属性,,Resource Tree node men
 ResourceNode_RegenerateFont,Regenerate Font,重新生成字体,,Resource Tree node menu - regenerate font
 ResourceNode_RegenerateFonts,Regenerate Fonts,重新生成字体,,Resource Tree node menu - regenerate fonts
 ResourceNode_RemoveFromView,Remove From Current View,从当前视野中移除,,Resource Tree - remove a resource from the current view
-ResourceNode_RemoveFromView_Confirm,"You are about to remove """"{0}"""" from view """"{1}"""". Continue?","您正要从视野 """"{1}""""中删除""""{0}""""。继续？",,Resource Tree - confirmation of removal from the current view
+ResourceNode_RemoveFromView_Confirm,"You are about to remove ""{0}"" from view ""{1}"". Continue?","您正要从视野 ""{1}""中删除""{0}""。继续？",,Resource Tree - confirmation of removal from the current view
 ResourceNode_Rename,Rename,重命名,,Resource Tree node menu - rename resource
 ResourceNode_ScriptToGMLVisual,Convert to GML Visual,转换为 GML Visual,,Resource Tree node menu - script to GML Visual
 ResourceNode_SetAudioGroup,Assign Audio Group,分配音频组,,Resource Tree node menu - set the audio group of selected resources
@@ -5129,7 +5128,7 @@ RoomEditor_NewPathLayer,Create New Path Layer,新建路径层,,Create new path l
 RoomEditor_NewTileLayer,Create New Tile Layer,新建图块层,,Tool tip for the new tile layer button
 RoomEditor_NoLayer,No Tile Layer Selected,未选择任何图块层,, message to be shown when the user has not selected a tile layer
 RoomEditor_NoParentItemToolTip,"{0} ({1}, {2})","{0} ({1}, {2})",,instance/graphic tooltip when there is no parent item
-RoomEditor_NoSelectionPathLayerStatus,"LMB + {0} to translate path, LMB + {1} to rotate path, LMB + {2} to scale path","LMB + {0} 以转换路径，LMB + {1} 以旋转路径，LMB + {2} 以缩放路径",,status bar information for editing paths
+RoomEditor_NoSelectionPathLayerStatus,"LMB + {0} to translate path, LMB + {1} to rotate path, LMB + {2} to scale path",LMB + {0} 以转换路径，LMB + {1} 以旋转路径，LMB + {2} 以缩放路径,,status bar information for editing paths
 RoomEditor_NoTilesetMessage,Your tile set preview will appear here when you select a tile set,当你选中了一个图块集，你可以在这里预览,,message to be shown when the user has not selected a tile set
 RoomEditor_ParticleSystemProperties,Particle System: {0},粒子系统: {0},,graphic properties window 
 RoomEditor_PathLayerPointStatus,"({0}, {1}),","({0}, {1}),",,the an individual control point status for the path layer shown in the room editor status bar
@@ -5668,7 +5667,7 @@ Source Control,Source Control,源码控制,,Source Control preference group subh
 Source Control (Git),Source Control (Git),源码控制(Git),,Source Control (Git) preference group subheading
 SourceControl_ActionEnded,"Attempting to request further source control actions on '{0}' after end has been called, create a new sourcecontrolaction class or use WaitForPrevious to insert blocking sections between requests",在end调用后尝试在'{0}'上请求进一步的源码控制操作，创建新的sourcecontrolaction类或使用WaitForPrevious在请求之间插入阻塞部分,,exception message for when the code has attempted to request an action after End() has been called
 SourceControl_ActionIncomplete,Source Control Action '{0}' has not successfully completed,源码控制动作'{0}'尚未成功完成,,error message for a source control action End() returning from a blocking wait when the action hasn't fully completed
-SourceControl_Default,"Source Control Output will go here.",“源代码管理输出将放在此处。”,,Default text for the Source Control Window
+SourceControl_Default,Source Control Output will go here.,“源代码管理输出将放在此处。”,,Default text for the Source Control Window
 SourceControl_InvalidAction,Source Control Action '{0}' has an invalid action in the request queue,源码控制动作'{0}'在请求队列中有一个无效的动作,,exception message for when we have hit an invalid action request
 SourceControl_Trial,"Source Control Output would go here, but you are currently using a Trial version.\nPlease upgrade to a paid version to enable the Source Control features!\nVisit https://www.yoyogames.com/get2 to view our pricing.",源码控制输出将出现在这里，但当前你正在使用试用版。\n请升级到付费版本启用源码控制！\n访问 https://www.yoyogames.com/get2 查看我们的定价。,,Default text for source control window when in trial mode.
 SourceControlConflictsDetected,"There are conflicts within this project. If the project is closed or reloaded, it may be broken until manually resolved. Are you sure you want to continue?",这个项目中存在冲突。如果项目已关闭或重新加载，则可能会在手动解决之前将其中断。你确定要继续吗？,,Conflicts Detected message
@@ -6017,7 +6016,7 @@ SyntaxError_EmptyStatement,empty {0} statement,空 {0} 声明,,syntax error
 SyntaxError_ExceptionParsing,Exception while parsing {0},解析{0}异常,,syntax error
 SyntaxError_ExpectedExp,expected expression,预期的表达式,,syntax error
 SyntaxError_Info,"{0} at line {1}, {2} : {3}","{0} 位于第{1}行, {2} : {3}",,"syntax error displayed to user (0 - source, 1 - line num, 2 - character num, 3 - error description)"
-SyntaxError_InheritedFunctionArguments,Inherited argument "{0}" is not in function arguments,继承的自变量 "{0}" 不在函数自变量中,,syntax error
+SyntaxError_InheritedFunctionArguments,"Inherited argument ""{0}"" is not in function arguments","继承的自变量 ""{0}"" 不在函数自变量中",,syntax error
 SyntaxError_InvalidArgs,Got '{0}' ({1}) expected '{2}',获得'{0}'({1})，预期'{2}',,syntax error
 SyntaxError_InvalidArgsOption,Got '{0}' ({1}) expected '{2}' or '{3}',获得 '{0}' ({1}) ，预期 '{2}' 或 '{3}',,syntax error
 SyntaxError_InvalidFunctionModifier,unknown function atribute {0},功能未知的属性{0},,syntax error
@@ -6349,8 +6348,8 @@ TreeView_AddNodeBefore,Add Node Before,在前面添加节点,,context menu optio
 TreeView_MoveNodeDown,Move Node Down,下移节点,,context menu option to move the node down
 TreeView_MoveNodeUp,Move Node Up,上移节点,,context menu option to move the node up
 Tutorial_Create_DisplayNameMissing,Display name must be set,显示名称必须设置。,,tutorial create error
-Tutorial_CreateInfo,Add content to Included Files "TutorialContent" folder,添加内容至 Included Files "TutorialContent" 文件夹,,tutorial package create info label
-Tutorial_CreateInfo2,Add files for the user to import to Included Files "TutorialResources" folder,添加供用户导入的文件至 Included Files "TutorialResources" 文件夹,,tutorial package create info label
+Tutorial_CreateInfo,"Add content to Included Files ""TutorialContent"" folder","添加内容至 Included Files ""TutorialContent"" 文件夹",,tutorial package create info label
+Tutorial_CreateInfo2,"Add files for the user to import to Included Files ""TutorialResources"" folder","添加供用户导入的文件至 Included Files ""TutorialResources"" 文件夹",,tutorial package create info label
 Tutorial_DisplayNameLabel,Display Name:,显示名：,,tutorial settings display name
 Tutorial_DisplayNameMissing,Display name must be set,显示名称必须设置。,,tutorial missing display name message
 Tutorial_Dock_Title,Tutorial,教程,,tutorial dock tab title
@@ -6650,7 +6649,7 @@ SeqSeqTrack_Plural,Sequence Tracks,序列轨迹,,sequence instance track type na
 Inspector_Category_Transform,Transform,变换,,Inspector category
 Inspector_Category_CanvasFrame,Canvas Frame,画布边框,,Inspector category
 Inspector_Category_Parent,Parent,父,,Inspector category
-Inspector_ObjNoEvents,"This Object currently has no Events.\nAdd Events here or via the editor","此对象当前没有活动。\n在此处或通过编辑器添加活动",,no object events inspector label
+Inspector_ObjNoEvents,This Object currently has no Events.\nAdd Events here or via the editor,此对象当前没有活动。\n在此处或通过编辑器添加活动,,no object events inspector label
 Inspector_OpenEditors,Open Editors,打开编辑器,,open multiple editors
 Inspector_Category_Properties,Properties,属性,,inspector category
 Inspector_Category_Editors,Editors,编辑器,,inspector category
@@ -6686,8 +6685,8 @@ ListBoxEnum_MacPackageChoice_MacPackage_Zip,Create Zip Archive,创建 Zip 文档
 ListBoxEnum_MacPackageChoice_MacPackage_Show,Show Dialog,显示对话框,,Show Dialog
 runtime_onstartup_change,Do you want to change your current runtime to the matching IDE version {0}?,是否要将当前 Runtime 更改为匹配的IDE版本{0}？,,Change current runtime to the version matching the IDE
 GoTo_Pref_Functions,Search in user-defined Functions,在用户定义的函数中搜索,,Search user functions pref
-GMStdOptional,"Optional",“可选”,, GML Visual optional label
-GMStdDefaultValue,"Value",“值”,, GML Visual default value label
+GMStdOptional,Optional,“可选”,, GML Visual optional label
+GMStdDefaultValue,Value,“值”,, GML Visual default value label
 Preference_macos_package_default_type,Automatic packaging choice,自动打包选择,,Preferences/Platform Settings/macOS
 SyntaxError_AssignmentToBuiltIn,Assignment to builtin variable/function/constant,对内置变量/函数/常量的赋值,,syntax error
 FileFilters_MacDmgApp,macOS DMG,macOS DMG,,mac application as a dmg file
@@ -6801,10 +6800,10 @@ WebAssembly,WASM,WASM,DO NOT TRANSLATE,WASM preference group subheading
 Wasm,WASM,WASM,DO NOT TRANSLATE,WASM preference group subheading
 Opera GX,GX.games,GX.games,DO NOT TRANSLATE,Opera GX preference group subheading
 Options_PS5ToolsSetupError,PlayStation 5 Tools Missing,PlayStation 5 工具丢失,,error dialog title when unable to find a ps5 tool
-Options_PS5ToolsSetupTrophyMessage,"Unable to find PlayStation 5 trophy editor.\nPlease update your tools directory.\n{0}","无法找到 PlayStation 5 奖杯编辑器。\n请更新工具目录。\n{0}",,error message when failed to find the trophy editor
+Options_PS5ToolsSetupTrophyMessage,Unable to find PlayStation 5 trophy editor.\nPlease update your tools directory.\n{0},无法找到 PlayStation 5 奖杯编辑器。\n请更新工具目录。\n{0},,error message when failed to find the trophy editor
 Options_PS5ToolsPreference,Go to PlayStation 5 settings,进入 PlayStation 5 设置,,button message to take user to PS5 preferences
-Options_PS5ToolsSetupParamSFOMessage,"Unable to find PlayStation 5 param.sfo editor.\nPlease update your tools directory.\n{0}","无法找到 PlayStation 5 param.sfo 编辑器。\n请更新工具目录。\n{0}",,error message when failed to find the param.sfo editor
-Options_PS5ToolsSetupShareParamMessage,"Unable to find PlayStation 5 share file editor.\nPlease update your tools directory.\n{0}","无法找到 PlayStation 5 共享文件编辑器。\n请更新工具目录。\n{0}",,error message when failed to find the param.sfo editor
+Options_PS5ToolsSetupParamSFOMessage,Unable to find PlayStation 5 param.sfo editor.\nPlease update your tools directory.\n{0},无法找到 PlayStation 5 param.sfo 编辑器。\n请更新工具目录。\n{0},,error message when failed to find the param.sfo editor
+Options_PS5ToolsSetupShareParamMessage,Unable to find PlayStation 5 share file editor.\nPlease update your tools directory.\n{0},无法找到 PlayStation 5 共享文件编辑器。\n请更新工具目录。\n{0},,error message when failed to find the param.sfo editor
 SyntaxError_SameArgument,argument name {0} already used in function declaration,自变量名称 {0} 已在函数说明中使用,,syntax error
 ConfigurationProblem_PS5SDK,Configuration Problem : PS5 SDK not found. Check your Preferences.,配置问题：未找到 PS5 SDK。检查您的首选项。,,Configuration Problem : PS5 SDK not found. Check your Preferences.
 ConfigurationProblem_PS5Tools,Configuration Problem : PS5 Tools directory not found. Check your Preferences.,配置问题：未找到 PS5 工具目录。检查您的首选项。,,Configuration Problem : PS5 Tools directory not found. Check your Preferences.
@@ -6919,10 +6918,10 @@ ROOM_EFFECTS_filter_whitenoise,White Noise,白噪声,,white noise filter name
 ROOM_EFFECTS_Animation,Animation,动画,,animation param name
 SoundMixer_LoadAudioGroup,Load Audio Group:,加载音频组：,,Sound Mixer Load Audio Group label
 SoundEditor_OggLabel,Conversion (for OGG only):,转换（仅限 OGG）：,,Ogg conversion option
-SourceControlConflictsDetectedOnLoad,"There are conflicts within this project. If you continue loading, it may be broken. It is recommended to resolve the git conflicts before. Are you sure you wish to continue loading?","此项目内存在冲突。继续加载可能导致崩溃。建议先解决 git 冲突。是否确定要继续加载？",,Conflicts Detected message on opening a project
+SourceControlConflictsDetectedOnLoad,"There are conflicts within this project. If you continue loading, it may be broken. It is recommended to resolve the git conflicts before. Are you sure you wish to continue loading?",此项目内存在冲突。继续加载可能导致崩溃。建议先解决 git 冲突。是否确定要继续加载？,,Conflicts Detected message on opening a project
 TextureGroups_CompressBZ2,BZ2 Compress,BZ2 压缩,,Texture group compression checkbox label
 UserLogin_OperaAccount,Opera Account,Opera 帐户,,opera account
-UserLogin_OperaLoginInfo,"Use your Opera account to sign in to YoYo Accounts.\nBoth accounts must be linked","使用您的 Opera 帐户登录 YoYo 帐户。\n两个帐户必须相互关联",,opera login info text
+UserLogin_OperaLoginInfo,Use your Opera account to sign in to YoYo Accounts.\nBoth accounts must be linked,使用您的 Opera 帐户登录 YoYo 帐户。\n两个帐户必须相互关联,,opera login info text
 UserLogin_LinkAccountsAt,Link your accounts at,关联您的帐户：,,link accounts info label
 UserLogin_OperaSSO,Opera Single Sign-In,Opera 单点登录,,single sign in button label
 UserLogin_ForgottenPassword,Forgotten password?,忘记密码？,,login forgotten password label
@@ -6951,7 +6950,7 @@ ggs_template_desc,Description,描述,,project template description
 mytemplateprojectslocation,Template Projects directory,模板项目目录,,user Template Projects location setting
 pref_laptop_mode,Force Laptop mode,强制笔记本电脑模式,,Preference to force the laptop mode on or off
 ggs_game_guid_change_confirmation,Are you sure to change the GUID?,是否确定要更改 GUID？,,Confirmation of changing the game GUID
-Project_Changes_OnRepairing,"The project files were corrupted. The changes were applied. Do you want to save the changes?","项目文件已损坏。更改已被应用。是否要保存更改？",,Project was corrupted and changed by the IDE to fix it
+Project_Changes_OnRepairing,The project files were corrupted. The changes were applied. Do you want to save the changes?,项目文件已损坏。更改已被应用。是否要保存更改？,,Project was corrupted and changed by the IDE to fix it
 operagx_synchronized,Synchronizing with Opera GX...,正在与 Opera GX 同步...,,Output Message on starting synchronizing with OperaGX
 operagx_failed_to_refresh_token,failed to refresh token... logout of GameMaker and login again,无法刷新令牌...请注销 GameMaker 并重新登录,,Output Message tracking Packaging for OperaGX process
 operagx_out_compilationbeforeupload_failed,Compilation failed. GXC upload cancelled. See the console output and the compile errors.,编译失败。GXC 上传已取消。查看控制台输出和编译错误。,,"Output Message to show then the compilation failed in the ""OperaGX Packaging"" window"
@@ -6963,7 +6962,7 @@ opera_sync_empty_guid,The GUID is empty. The project will be registered on GXC a
 opera_sync_syncronization_on,Synchronization...,正在同步...,,Synchronization button label during synchronization process
 opera_sync_synchronize,Synchronize,同步,,Synchronization button label when the user is logged in
 opera_sync_signin_and_synchronize,Sign-in and synchronize,登录并同步,,Synchronization button label when the user is not logged in
-opera_sync_guid_valid,"With the GUID provided, you may change the game settings only on GXC","使用所提供的 GUID，您只能在 GXC 上更改游戏设置",,Tip for the user for a valid GUID
+opera_sync_guid_valid,"With the GUID provided, you may change the game settings only on GXC",使用所提供的 GUID，您只能在 GXC 上更改游戏设置,,Tip for the user for a valid GUID
 opera_sync_guid_not_valid_format,GUID format is not valid,GUID 格式无效,,Tip for an invalid GUID
 opera_sync_incorrect_data,Incorrect data. Check the output,数据错误。检查输出,,Incorrect data warning message
 xbox_package_xbone,Xbox One package,Xbox One 软件包,,Package built for Xbox One consoles
@@ -6980,18 +6979,18 @@ StartScreen_TourIntro_Desc1,The START page is where you can access all you need 
 StartScreen_TourIntro_DescA,Hover over any of the below areas marked with a,将光标悬停在以下任何区域（标有,,start screen tour label
 StartScreen_TourIntro_DescB,to find out more and explore.,）以了解更多并进行探索。,,start screen tour label
 StartScreen_TourIntro_Desc2,Hover over any of the below areas marked with a   #   to find out more and explore.,将光标悬停在以下任何区域（标有   #  ）以了解更多并进行探索。,,format test
-StartScreen_TourTitle_1,"""New Project""","“新建项目”",,start screen tour label
-StartScreen_TourTitle_2,"""Open Project""","“打开项目”",,start screen tour label
-StartScreen_TourTitle_3,"""Import Project""","“导入项目”",,start screen tour label
-StartScreen_TourTitle_4,"""Tutorials""","“教程”",,start screen tour label
-StartScreen_TourTitle_5,"""Recent Projects""","“最近的项目”",,start screen tour label
+StartScreen_TourTitle_1,"""New Project""",“新建项目”,,start screen tour label
+StartScreen_TourTitle_2,"""Open Project""",“打开项目”,,start screen tour label
+StartScreen_TourTitle_3,"""Import Project""",“导入项目”,,start screen tour label
+StartScreen_TourTitle_4,"""Tutorials""",“教程”,,start screen tour label
+StartScreen_TourTitle_5,"""Recent Projects""",“最近的项目”,,start screen tour label
 StartScreen_SkipTourWiz,SKIP to Setup Wizard,跳转至设置向导,,start screen tour label
 StartScreen_SkipTour,SKIP Tour,跳过教程,,start screen skip tour label
-StartScreen_TourDesc_1,"Start from scratch with a new empty project or start from a template; one we've included or one of your own","使用新的空白项目从头开始，或者使用我们的内置模板或您自己的模板开始",,start screen tour label
-StartScreen_TourDesc_2,"Open a project you've already started and continue from when your last saved","打开您已开始的项目，并从您上次保存的位置继续",,start screen tour label
-StartScreen_TourDesc_3,"Import a project that has previously been exported or is from a legacy version of GameMaker","导入您之前导出的项目，或来自旧版 GameMaker 的项目",,start screen tour label
-StartScreen_TourDesc_4,"Browse all of the available tutorials through your web browser","通过您的网页浏览器浏览提供的所有教程",,start screen tour label
-StartScreen_TourDesc_5,"An area that will display all of the projects you have opened recently, it may be easier to select your project from here instead of using the 'Open' button above, if you are reopening a project that you were working on recently","此区域将显示您最近打开过的所有项目，如果您要再次打开最近处理过的项目，在此处选择项目可能比使用上方的“打开”按钮更为简单",,start screen tour label
+StartScreen_TourDesc_1,Start from scratch with a new empty project or start from a template; one we've included or one of your own,使用新的空白项目从头开始，或者使用我们的内置模板或您自己的模板开始,,start screen tour label
+StartScreen_TourDesc_2,Open a project you've already started and continue from when your last saved,打开您已开始的项目，并从您上次保存的位置继续,,start screen tour label
+StartScreen_TourDesc_3,Import a project that has previously been exported or is from a legacy version of GameMaker,导入您之前导出的项目，或来自旧版 GameMaker 的项目,,start screen tour label
+StartScreen_TourDesc_4,Browse all of the available tutorials through your web browser,通过您的网页浏览器浏览提供的所有教程,,start screen tour label
+StartScreen_TourDesc_5,"An area that will display all of the projects you have opened recently, it may be easier to select your project from here instead of using the 'Open' button above, if you are reopening a project that you were working on recently",此区域将显示您最近打开过的所有项目，如果您要再次打开最近处理过的项目，在此处选择项目可能比使用上方的“打开”按钮更为简单,,start screen tour label
 StartScreen_ChooseTemplate,CHOOSE YOUR TEMPLATE,选择您的模板,,start screen label
 StartScreen_SelectTemplate,Please select a project template,请选择一个项目模板,,start screen label
 StartScreen_RecentProjects,RECENT PROJECTS,最近的项目,,start screen label
@@ -7006,9 +7005,9 @@ SS_ProjectLocationLabel,Location:,位置：,,start screen project location label
 SS_ProjDirInUse,Project directory name already exists,项目目录名称已存在,,proj dir in use warning
 StartScreen_WizardTitle,Set Up Wizard,设置向导,,setup wizard title
 SS_WizardStepNum,Step {0} of {1},第 {0} 步，共 {1} 步,,setup wizard label
-SS_Wizard_StepDesc_1,"Let's get you started setting up your first project.\nFirst, click on the button below labelled 'NEW'.","让我们来设置您的第一个项目。\n首先，点击“新建”标签下方的按钮。",,setup wizard label
-SS_Wizard_StepDesc_2,"Select a template below, or choose BLANK to start a fresh new project","在下方选择一个模板，或选择“空白”以开始全新的项目",,setup wizard label
-SS_Wizard_StepDesc_3,"Give your project a name, choose a save location, and just jump right in!","为您的项目命名，选择保存位置，然后立即开始！",,setup wizard label
+SS_Wizard_StepDesc_1,"Let's get you started setting up your first project.\nFirst, click on the button below labelled 'NEW'.",让我们来设置您的第一个项目。\n首先，点击“新建”标签下方的按钮。,,setup wizard label
+SS_Wizard_StepDesc_2,"Select a template below, or choose BLANK to start a fresh new project",在下方选择一个模板，或选择“空白”以开始全新的项目,,setup wizard label
+SS_Wizard_StepDesc_3,"Give your project a name, choose a save location, and just jump right in!",为您的项目命名，选择保存位置，然后立即开始！,,setup wizard label
 SS_Wizard_DontShowAgain,Don't show me again,不再显示,,dont show again label
 SS_ButtonGo,Let's Go!,我们开始吧！,,startscreen go button label
 SS_DirectoryNotExists,Directory '{0}' does not exist.\nPlease verify the project location and try again.,目录 '{0}' 不存在。\n请检查项目位置并重试。,,Startscreen project directory does not exist
@@ -7171,15 +7170,15 @@ runtime_dns_DnsTestHasFailed,DNS test has failed,DNS 测试失败,,A title of th
 runtime_dns_DnsTestHasFailedMessage,DNS resolving test has failed with the current settings. Alternative DNS has been disabled,当前设置下，DNS 解析测试失败。备用 DNS 已禁用,,A warning which is shown after failing the DNS test
 runtime_dns_ResolvingFailed,DNS resolving has failed,DNS 解析失败,,A title of the warning which is shown when after the IDE failed to resolve an address against an alternative DNS
 runtime_dns_ResolvingFailedMessage,Could not resolve {0} with an alternative DNS. A system DNS has been used,无法采用备用 DNS 解析 {0}。已使用系统 DNS,,Could not use an alternative DNS
-runtime_empty_dns_warning,"No DNS IP specified - the runtime feeds will be resolved against a system DNS","未指定 DNS IP — 将根据系统 DNS 解析运行时源",,"A tip which is shown in the Preferences window when a user leaves the field ""Alternative DNS IP"" empty"
+runtime_empty_dns_warning,No DNS IP specified - the runtime feeds will be resolved against a system DNS,未指定 DNS IP — 将根据系统 DNS 解析运行时源,,"A tip which is shown in the Preferences window when a user leaves the field ""Alternative DNS IP"" empty"
 ProgressBar_DnsTest,Testing DNS...,正在测试 DNS...,,A title of the progress bar
 GoTo_Pref_RedefineKeys,Search in Redefine Keys,在重新定义按键中搜索,,search redfine keys pref
-SS_Wizard_StepDesc_3BlankA,"You've selected 'New Blank' template.","您已选择“新建空白”模板。",,setup wizard label
+SS_Wizard_StepDesc_3BlankA,You've selected 'New Blank' template.,您已选择“新建空白”模板。,,setup wizard label
 SS_NewDescHeader,Description:,描述：,,start screen new project description
 SS_NewDesc,Create an empty GameMaker project. Build your game up from a blank canvas.,创建空白 GameMaker 项目。从空白画布创建游戏。,,start screen new project description
 SS_NewInfoHeader,Other Info:,其他信息：,,start screen new project description
 SS_NewInfo,Set your scripting preference in Game Options/Preferences.,在“游戏选项/偏好”中设置您的脚本首选项。,,start screen new project description
-Validate_InvalidPathTooLong,"Path is too long: '{0}'.","路径太长：'{0}'。",,Rename message
+Validate_InvalidPathTooLong,Path is too long: '{0}'.,路径太长：'{0}'。,,Rename message
 Visual Editor,Visual Editor,Visual Editor,,Visual Editor preference group subheading
 GMLVisual,GML Visual,GML Visual,,GML Visual preference group subheading
 FileFilter_TemplateProject,GameMaker Project Template,GameMaker 项目模板,,template project filter
@@ -7188,92 +7187,92 @@ ScriptType_SelectLang,Select the scripting language for your project:,选择项�
 ScriptType_SelectLang_Info,Note: This can be changed at any time,注意：可以随时更改。,,select scripting language label
 ScriptType_Code,GML CODE,GML CODE,,code scripting type
 ScriptType_Visual,GML VISUAL,GML VISUAL,,visual scripting type
-ScriptType_CodeDesc,"Program your game with GML's simple coding syntax and powerful object-oriented language features, suitable for users learning how to code and advanced programmers skilled in industry-standard languages.","借助 GML 简单的编码语法和强大的面向对象的语言功能来编写您的游戏程序。既适合正在学习如何编程的用户，也适合精通行业标准语言的高级程序员。",,code script type description
-ScriptType_VisualDesc,"Visually program your game using actions. Learn coding through visual blocks. Preview the code behind your actions and convert to code at any time.","使用操作，直观地编写游戏程序。学习通过视觉块编码。预览操作背后的代码，并随时转换成代码。",,visual script type description
+ScriptType_CodeDesc,"Program your game with GML's simple coding syntax and powerful object-oriented language features, suitable for users learning how to code and advanced programmers skilled in industry-standard languages.",借助 GML 简单的编码语法和强大的面向对象的语言功能来编写您的游戏程序。既适合正在学习如何编程的用户，也适合精通行业标准语言的高级程序员。,,code script type description
+ScriptType_VisualDesc,Visually program your game using actions. Learn coding through visual blocks. Preview the code behind your actions and convert to code at any time.,使用操作，直观地编写游戏程序。学习通过视觉块编码。预览操作背后的代码，并随时转换成代码。,,visual script type description
 ScriptType_DontAskProject,Don't ask again for this project,不再询问此项目,,dont ask again this project
 ScriptType_DontAskEver,Don't ask again ever,不再询问,,dont ask again all projects
 ListBoxEnum_eDefaultScriptType_None,Always Ask,总是询问,,default script type none
 ListBoxEnum_eDefaultScriptType_GML,GML Code,GML Code,,default script type gml
 ListBoxEnum_eDefaultScriptType_GMLVisual,GML Visual,GML Visual,,default script type GML Visual
 default_script_pref,Default scripting language,默认脚本语言,,default scripting language preference
-GMStdCatTime,"Time","時間",,GML Visual library category name
-GMStdTimeSource,"Time Source","时间源",,GML Visual library argument label
-GMStdParent,"Parent","父项",,GML Visual library argument label
-GMStdPeriod,"Period","句號",,GML Visual library argument label
-GMStdUnits,"Units","单位",,GML Visual library argument label
-GMStdCallback,"Callback","回叫",,GML Visual library argument label
-GMStdReps,"Repetitions","重复次数",,GML Visual library argument label
-GMStdExpiryType,"Expiry Type","到期类型",,GML Visual library argument label
-GMStdVar_time_source_global,"Global Time Source","全球时间源",,GML Visual argument value
-GMStdVar_time_source_game,"Game Time Source","游戏时间源",,GML Visual argument value
-GMStdVar_time_source_units_seconds,"Seconds","秒",,GML Visual argument value
-GMStdVar_time_source_units_frames,"Frames","帧",,GML Visual argument value
-GMStdVar_time_source_expire_nearest,"Nearest","最近",,GML Visual argument value
-GMStdVar_time_source_expire_after,"After","之后",,GML Visual argument value
-GMStdVar_time_source_state_initial,"Initial","初始",,GML Visual argument value
-GMStdVar_time_source_state_active,"Active","下载中",,GML Visual argument value
-GMStdVar_time_source_state_paused,"Paused","已暂停",,GML Visual argument value
-GMStdVar_time_source_state_stopped,"Stopped","已停止",,GML Visual argument value
-GMStdTimeSourceCreate_Name,"Create Time Source","创建时间源",,GML Visual action name
-GMStdTimeSourceCreate_Desc,"Create a time source.","创建一个时间源。",,GML Visual action description
-GMStdTimeSourceCreate_Story,"Create a time source and assign it to ${idx}","创建一个时间源并将其分配给 ${idx}",,GML Visual story text
-GMStdTimeSourceDestroy_Name,"Destroy Time Source","销毁时间源",,GML Visual action name
-GMStdTimeSourceDestroy_Desc,"Destroy a time source.","销毁一个时间源。",,GML Visual action description
-GMStdTimeSourceStart_Name,"Start Time Source","启动时间源",,GML Visual action name
-GMStdTimeSourceStart_Desc,"Start a time source.","启动一个时间源。",,GML Visual action description
-GMStdTimeSourceStart_Story,"Start time source ${idx}","启动时间源 ${idx}",,GML Visual story text
-GMStdTimeSourceStop_Name,"Stop Time Source","停止时间源",,GML Visual action name
-GMStdTimeSourceStop_Desc,"Stop a time source.","停止一个时间源。",,GML Visual action description
-GMStdTimeSourceStop_Story,"Stop time source ${idx}","停止时间源 ${idx}",,GML Visual story text
-GMStdTimeSourcePause_Name,"Pause Time Source","暂停时间源",,GML Visual action name
-GMStdTimeSourcePause_Desc,"Pause a time source.","暂停一个时间源。",,GML Visual action description
-GMStdTimeSourcePause_Story,"Pause time source ${idx}","暂停时间源 ${idx}",,GML Visual story text
-GMStdTimeSourceReset_Name,"Reset Time Source","重置时间源",,GML Visual action name
-GMStdTimeSourceReset_Desc,"Reset a time source.","重置一个时间源。",,GML Visual action description
-GMStdTimeSourceReset_Story,"Reset time source ${idx}","重置时间源 ${idx}",,GML Visual story text
-GMStdTimeSourceReconfigure_Name,"Reconfigure Time Source","重新配置时间源",,GML Visual action name
-GMStdTimeSourceReconfigure_Desc,"Reset and reconfigure a time source.","重置和重新配置一个时间源。",,GML Visual action description
-GMStdTimeSourceReconfigure_Story,"Reset and reconfigure time source ${idx}","重置和重新配置时间源 ${idx}",,GML Visual story text
-GMStdTimeSourceGetPeriod_Name,"Get Period","获取时间段",,GML Visual action name
-GMStdTimeSourceGetPeriod_Desc,"Get the period of a time source.","获取一个时间源的时间段。",,GML Visual action description
-GMStdTimeSourceGetPeriod_Story,"Get the period of time source ${idx} and assign it to ${var}","获取时间源 ${idx} 的时间段并将其分配给 ${var}",,GML Visual story text
-GMStdTimeSourceGetRepsCompleted_Name,"Get Reps Completed","获取已完成重复次数",,GML Visual action name
-GMStdTimeSourceGetRepsCompleted_Desc,"Get the number of repetitions a time source has completed.","获取一个时间源已完成的重复次数",,GML Visual action description
-GMStdTimeSourceGetRepsCompleted_Story,"Get the number of completed repetitions of time source ${idx} and assign it to ${var}","获取时间源 ${idx} 已完成的重复次数并将其分配给 ${var}",,GML Visual story text
-GMStdTimeSourceGetRepsRemaining_Name,"Get Reps Remaining","获取剩余重复",,GML Visual action name
-GMStdTimeSourceGetRepsRemaining_Desc,"Get the number of repetitions a time source has remaining.","获取一个时间源的剩余重复次数",,GML Visual action description
-GMStdTimeSourceGetRepsRemaining_Story,"Get the number of remaining repetitions of time source ${idx} and assign it to ${var}","获取时间源 ${idx} 的剩余重复次数并将其分配给 ${var}",,GML Visual story text
-GMStdTimeSourceGetUnits_Name,"Get Units","获取单位",,GML Visual action name
-GMStdTimeSourceGetUnits_Desc,"Get the units of a time source.","获取一个时间源的单位。",,GML Visual action description
-GMStdTimeSourceGetUnits_Story,"Get the units of time source ${idx} and assign it to ${var}","获取时间源 ${idx} 的单位并将其分配给 ${var}",,GML Visual story text
-GMStdTimeSourceGetTimeRemaining_Name,"Get Time Remaining","获取剩余时间",,GML Visual action name
-GMStdTimeSourceGetTimeRemaining_Desc,"Get the time remaining on a time source.","获取一个时间源的剩余时间。",,GML Visual action description
-GMStdTimeSourceGetTimeRemaining_Story,"Get the time remaining on time source ${idx} and assign it to ${var}","获取时间源 ${idx} 的剩余时间并将其分配给 ${var}",,GML Visual story text
-GMStdTimeSourceGetState_Name,"Get State","获取状态",,GML Visual action name
-GMStdTimeSourceGetState_Desc,"Get the current state of a time source.","获取一个时间源的当前状态。",,GML Visual action description
-GMStdTimeSourceGetState_Story,"Get the current state of time source ${idx} and assign it to ${var}","获取时间源 ${idx} 的当前状态并将其分配给 ${var}",,GML Visual story text
-GMStdTimeSourceGetParent_Name,"Get Parent","获取父项",,GML Visual action name
-GMStdTimeSourceGetParent_Desc,"Get the parent of a time source.","获取一个时间源的父项。",,GML Visual action description
-GMStdTimeSourceGetParent_Story,"Get the parent of time source ${idx} and assign it to ${var}","获取时间源 ${idx} 的父项并将其分配给 ${var}",,GML Visual story text
-GMStdTimeSourceGetChildren_Name,"Get Children","获取子项",,GML Visual action name
-GMStdTimeSourceGetChildren_Desc,"Get the children of a time source.","获取一个时间源的子项。",,GML Visual action description
-GMStdTimeSourceGetChildren_Story,"Get the children of time source ${idx} and assign it to ${var}","获取时间源 ${idx} 的子项并将其分配给 ${var}",,GML Visual story text
-GMStdTimeSourceExists_Name,"If Time Source Exists","时间源是否存在",,GML Visual action name
-GMStdTimeSourceExists_Desc,"Check if a time source exists.","检查一个时间源是否存在。",,GML Visual action description
-GMStdTimeSourceExists_Story_1,"If time source ${idx} exists","如果时间源 ${idx} 存在",,GML Visual story text
-GMStdTimeSourceExists_Story_2,"If time source ${idx} does not exist","如果时间源 ${idx} 不存在",,GML Visual story text
-GMStdIfTimeSourceState_Name,"If State","状态是否",,GML Visual action name
-GMStdIfTimeSourceState_Desc,"Check if a time source's state satisfies a condition.","检查一个时间源的状态是否满足某一条件。",,GML Visual action description
-GMStdIfTimeSourceState_Story_1,"If the state of time source ${idx} is ${state}","如果时间源 ${idx} 的状态是 ${state}",,GML Visual story text
-GMStdIfTimeSourceState_Story_2,"If the state of time source ${idx} is not ${state}","如果时间源 ${idx} 的状态不是 ${state}",,GML Visual story text
-GMStdIfTimeSourceUnits_Name,"If Units","单位是否",,GML Visual action name
-GMStdIfTimeSourceUnits_Desc,"Check if a time source's units satisfies a condition.","检查一个时间源的单位是否满足某一条件。",,GML Visual action description
-GMStdIfTimeSourceUnits_Story_1,"If the units of time source ${idx} are ${units}","如果时间源 ${idx} 的单位是 ${units}",,GML Visual story text
-GMStdIfTimeSourceUnits_Story_2,"If the units of time source ${idx} are not ${units}","如果时间源 ${idx} 的单位不是 ${units}",,GML Visual story text
-GMStdIfTimeSourceParent_Name,"If Parent","父项是否",,GML Visual action name
-GMStdIfTimeSourceParent_Desc,"Check if a time source's parent satisfies a condition.","检查一个时间源的父项是否满足某一条件。",,GML Visual action description
-GMStdIfTimeSourceParent_Story_1,"If the parent of time source ${idx} is ${parent}","如果时间源 ${idx} 的父项是 ${parent}",,GML Visual story text
-GMStdIfTimeSourceParent_Story_2,"If the parent of time source ${idx} is not ${parent}","如果时间源 ${idx} 的父项不是 ${parent}",,GML Visual story text
+GMStdCatTime,Time,時間,,GML Visual library category name
+GMStdTimeSource,Time Source,时间源,,GML Visual library argument label
+GMStdParent,Parent,父项,,GML Visual library argument label
+GMStdPeriod,Period,句號,,GML Visual library argument label
+GMStdUnits,Units,单位,,GML Visual library argument label
+GMStdCallback,Callback,回叫,,GML Visual library argument label
+GMStdReps,Repetitions,重复次数,,GML Visual library argument label
+GMStdExpiryType,Expiry Type,到期类型,,GML Visual library argument label
+GMStdVar_time_source_global,Global Time Source,全球时间源,,GML Visual argument value
+GMStdVar_time_source_game,Game Time Source,游戏时间源,,GML Visual argument value
+GMStdVar_time_source_units_seconds,Seconds,秒,,GML Visual argument value
+GMStdVar_time_source_units_frames,Frames,帧,,GML Visual argument value
+GMStdVar_time_source_expire_nearest,Nearest,最近,,GML Visual argument value
+GMStdVar_time_source_expire_after,After,之后,,GML Visual argument value
+GMStdVar_time_source_state_initial,Initial,初始,,GML Visual argument value
+GMStdVar_time_source_state_active,Active,下载中,,GML Visual argument value
+GMStdVar_time_source_state_paused,Paused,已暂停,,GML Visual argument value
+GMStdVar_time_source_state_stopped,Stopped,已停止,,GML Visual argument value
+GMStdTimeSourceCreate_Name,Create Time Source,创建时间源,,GML Visual action name
+GMStdTimeSourceCreate_Desc,Create a time source.,创建一个时间源。,,GML Visual action description
+GMStdTimeSourceCreate_Story,Create a time source and assign it to ${idx},创建一个时间源并将其分配给 ${idx},,GML Visual story text
+GMStdTimeSourceDestroy_Name,Destroy Time Source,销毁时间源,,GML Visual action name
+GMStdTimeSourceDestroy_Desc,Destroy a time source.,销毁一个时间源。,,GML Visual action description
+GMStdTimeSourceStart_Name,Start Time Source,启动时间源,,GML Visual action name
+GMStdTimeSourceStart_Desc,Start a time source.,启动一个时间源。,,GML Visual action description
+GMStdTimeSourceStart_Story,Start time source ${idx},启动时间源 ${idx},,GML Visual story text
+GMStdTimeSourceStop_Name,Stop Time Source,停止时间源,,GML Visual action name
+GMStdTimeSourceStop_Desc,Stop a time source.,停止一个时间源。,,GML Visual action description
+GMStdTimeSourceStop_Story,Stop time source ${idx},停止时间源 ${idx},,GML Visual story text
+GMStdTimeSourcePause_Name,Pause Time Source,暂停时间源,,GML Visual action name
+GMStdTimeSourcePause_Desc,Pause a time source.,暂停一个时间源。,,GML Visual action description
+GMStdTimeSourcePause_Story,Pause time source ${idx},暂停时间源 ${idx},,GML Visual story text
+GMStdTimeSourceReset_Name,Reset Time Source,重置时间源,,GML Visual action name
+GMStdTimeSourceReset_Desc,Reset a time source.,重置一个时间源。,,GML Visual action description
+GMStdTimeSourceReset_Story,Reset time source ${idx},重置时间源 ${idx},,GML Visual story text
+GMStdTimeSourceReconfigure_Name,Reconfigure Time Source,重新配置时间源,,GML Visual action name
+GMStdTimeSourceReconfigure_Desc,Reset and reconfigure a time source.,重置和重新配置一个时间源。,,GML Visual action description
+GMStdTimeSourceReconfigure_Story,Reset and reconfigure time source ${idx},重置和重新配置时间源 ${idx},,GML Visual story text
+GMStdTimeSourceGetPeriod_Name,Get Period,获取时间段,,GML Visual action name
+GMStdTimeSourceGetPeriod_Desc,Get the period of a time source.,获取一个时间源的时间段。,,GML Visual action description
+GMStdTimeSourceGetPeriod_Story,Get the period of time source ${idx} and assign it to ${var},获取时间源 ${idx} 的时间段并将其分配给 ${var},,GML Visual story text
+GMStdTimeSourceGetRepsCompleted_Name,Get Reps Completed,获取已完成重复次数,,GML Visual action name
+GMStdTimeSourceGetRepsCompleted_Desc,Get the number of repetitions a time source has completed.,获取一个时间源已完成的重复次数,,GML Visual action description
+GMStdTimeSourceGetRepsCompleted_Story,Get the number of completed repetitions of time source ${idx} and assign it to ${var},获取时间源 ${idx} 已完成的重复次数并将其分配给 ${var},,GML Visual story text
+GMStdTimeSourceGetRepsRemaining_Name,Get Reps Remaining,获取剩余重复,,GML Visual action name
+GMStdTimeSourceGetRepsRemaining_Desc,Get the number of repetitions a time source has remaining.,获取一个时间源的剩余重复次数,,GML Visual action description
+GMStdTimeSourceGetRepsRemaining_Story,Get the number of remaining repetitions of time source ${idx} and assign it to ${var},获取时间源 ${idx} 的剩余重复次数并将其分配给 ${var},,GML Visual story text
+GMStdTimeSourceGetUnits_Name,Get Units,获取单位,,GML Visual action name
+GMStdTimeSourceGetUnits_Desc,Get the units of a time source.,获取一个时间源的单位。,,GML Visual action description
+GMStdTimeSourceGetUnits_Story,Get the units of time source ${idx} and assign it to ${var},获取时间源 ${idx} 的单位并将其分配给 ${var},,GML Visual story text
+GMStdTimeSourceGetTimeRemaining_Name,Get Time Remaining,获取剩余时间,,GML Visual action name
+GMStdTimeSourceGetTimeRemaining_Desc,Get the time remaining on a time source.,获取一个时间源的剩余时间。,,GML Visual action description
+GMStdTimeSourceGetTimeRemaining_Story,Get the time remaining on time source ${idx} and assign it to ${var},获取时间源 ${idx} 的剩余时间并将其分配给 ${var},,GML Visual story text
+GMStdTimeSourceGetState_Name,Get State,获取状态,,GML Visual action name
+GMStdTimeSourceGetState_Desc,Get the current state of a time source.,获取一个时间源的当前状态。,,GML Visual action description
+GMStdTimeSourceGetState_Story,Get the current state of time source ${idx} and assign it to ${var},获取时间源 ${idx} 的当前状态并将其分配给 ${var},,GML Visual story text
+GMStdTimeSourceGetParent_Name,Get Parent,获取父项,,GML Visual action name
+GMStdTimeSourceGetParent_Desc,Get the parent of a time source.,获取一个时间源的父项。,,GML Visual action description
+GMStdTimeSourceGetParent_Story,Get the parent of time source ${idx} and assign it to ${var},获取时间源 ${idx} 的父项并将其分配给 ${var},,GML Visual story text
+GMStdTimeSourceGetChildren_Name,Get Children,获取子项,,GML Visual action name
+GMStdTimeSourceGetChildren_Desc,Get the children of a time source.,获取一个时间源的子项。,,GML Visual action description
+GMStdTimeSourceGetChildren_Story,Get the children of time source ${idx} and assign it to ${var},获取时间源 ${idx} 的子项并将其分配给 ${var},,GML Visual story text
+GMStdTimeSourceExists_Name,If Time Source Exists,时间源是否存在,,GML Visual action name
+GMStdTimeSourceExists_Desc,Check if a time source exists.,检查一个时间源是否存在。,,GML Visual action description
+GMStdTimeSourceExists_Story_1,If time source ${idx} exists,如果时间源 ${idx} 存在,,GML Visual story text
+GMStdTimeSourceExists_Story_2,If time source ${idx} does not exist,如果时间源 ${idx} 不存在,,GML Visual story text
+GMStdIfTimeSourceState_Name,If State,状态是否,,GML Visual action name
+GMStdIfTimeSourceState_Desc,Check if a time source's state satisfies a condition.,检查一个时间源的状态是否满足某一条件。,,GML Visual action description
+GMStdIfTimeSourceState_Story_1,If the state of time source ${idx} is ${state},如果时间源 ${idx} 的状态是 ${state},,GML Visual story text
+GMStdIfTimeSourceState_Story_2,If the state of time source ${idx} is not ${state},如果时间源 ${idx} 的状态不是 ${state},,GML Visual story text
+GMStdIfTimeSourceUnits_Name,If Units,单位是否,,GML Visual action name
+GMStdIfTimeSourceUnits_Desc,Check if a time source's units satisfies a condition.,检查一个时间源的单位是否满足某一条件。,,GML Visual action description
+GMStdIfTimeSourceUnits_Story_1,If the units of time source ${idx} are ${units},如果时间源 ${idx} 的单位是 ${units},,GML Visual story text
+GMStdIfTimeSourceUnits_Story_2,If the units of time source ${idx} are not ${units},如果时间源 ${idx} 的单位不是 ${units},,GML Visual story text
+GMStdIfTimeSourceParent_Name,If Parent,父项是否,,GML Visual action name
+GMStdIfTimeSourceParent_Desc,Check if a time source's parent satisfies a condition.,检查一个时间源的父项是否满足某一条件。,,GML Visual action description
+GMStdIfTimeSourceParent_Story_1,If the parent of time source ${idx} is ${parent},如果时间源 ${idx} 的父项是 ${parent},,GML Visual story text
+GMStdIfTimeSourceParent_Story_2,If the parent of time source ${idx} is not ${parent},如果时间源 ${idx} 的父项不是 ${parent},,GML Visual story text
 RedefineKeys_MoveFlowNext,Move Flow Next,向后移动 Flow,,Redefine keys MoveFlowNext string
 RedefineKeys_MoveFlowPrevious,Move Flow Previous,向前移动 Flow,,Redefine keys MoveFlowPrevious string
 RedefineKeys_FlowAccept,Flow Accept,接受 Flow,,Redefine keys FlowAccept string
@@ -7747,10 +7746,10 @@ RedefineKeys_Insert,Insert,插入,,Redefine keys Insert string
 RedefineKeys_ImageEditor_AddFromFile,Image Editor Add From File,图像编辑器从文件添加,,Redefine keys ImageEditor_AddFromFile string
 RedefineKeys_ImageEditor_CreateFromStrip,Image Editor Create From Strip,图像编辑器从 Strip 创建,,Redefine keys ImageEditor_CreateFromStrip string
 RedefineKeys_ImageEditor_ImportFromStrip,Image Editor Import From Strip,图像编辑器从 Strip 导入,,Redefine keys ImageEditor_ImportFromStrip string
-RedefineKeys_ImageEditor_ExportToPNG,Image Editor Export To PNG,图像编辑器导出到 PNG,,Redefine keys ImageEditor_ExportToPNG string
+RedefineKeys_Export To PNG,Image Editor Export To PNG,图像编辑器导出到 PNG,,Redefine keys ImageEditor_ExportToPNG string
 RedefineKeys_ImageEditor_ResizeCanvas,Image Editor Resize Canvas,图像编辑器调整画布大小,,Redefine keys ImageEditor_ResizeCanvas string
 RedefineKeys_ImageEditor_CropToSelection,Image Editor Crop To Selection,图像编辑器裁剪到选择区域,,Redefine keys ImageEditor_CropToSelection string
-RedefineKeys_ImageEditor_AutoTrim,Image Editor Auto Trim,图像编辑器自动修剪,,Redefine keys ImageEditor_AutoTrim string
+RedefineKeys_Auto Trim Frames,Image Editor Auto Trim,图像编辑器自动修剪,,Redefine keys ImageEditor_AutoTrim string
 RedefineKeys_ImageEditor_ReverseFrames,Image Editor Reverse Frames,图像编辑器翻转帧,,Redefine keys ImageEditor_ReverseFrames string
 RedefineKeys_Transform Current Frame,Transform Current Frame,转换当前帧,,Redefine keys Transform Current Frame string
 RedefineKeys_Transform All Frames,Transform All Frames,转换所有帧,,Redefine keys Transform All Frames string
@@ -7917,6 +7916,7 @@ RedefineKeys_Command,Command,命令,,Redefine keys Command label
 RedefineKeys_Keys,Keys,键,,Redefine keys Keys label
 Event_Other_RollbackStart,Rollback Start,回滚开始,,Other event subtype
 Event_Other_RollbackEvent,Rollback Event,回滚事件,,Other event subtype
+Event_Other_WallpaperConfig,Wallpaper Config,Wallpaper Config,,Other event subtype
 Inspector_InstVarMixedObjects,Variables only shown when all selected Instances have the same Object,仅当所有选定实例具有相同对象时才显示变量,,mixed instance object message
 Object_Managed,Managed,已托管,,The object is managed by the rollback system
 Object_Managed_Tooltip,Instances of this object will have its lifecycle managed during rollback multiplayer,该对象的实例将在回滚多人游戏期间管理其生存时间,,The object is managed by rollback system (tooltip)
@@ -8052,7 +8052,7 @@ GMStdRollbackIfInput_Desc,Check if a key managed by the rollback is held down.,�
 GMStdRollbackIfEventFired_Name,If Rollback Event Fired,是否触发了回滚事件,,Drag and Dropâ„¢ library action name
 GMStdRollbackIfEventFired_Desc,If a rollback event was fired,是否触发了一个回滚事件,,Drag and Dropâ„¢ library action description
 GMStdRollbackSyncOnFrame_Name,Sync on frame,帧上同步,,Drag and Dropâ„¢ library action name
-GMStdRollbackSyncOnFrame_Desc,"Synchronize the rollback game on the current frame. This means that we will only proceed past the current frame if all inputs are confirmed. Returns true if successful, false if the current frame will be rerun.","在当前帧上同步回滚游戏。这意味着，只有在所有输入都得到确认的情况下，我们才能继续当前帧。如果成功，则返回 true；如果将重新运行当前帧，则返回 false。",,Drag and Dropâ„¢ library action description
+GMStdRollbackSyncOnFrame_Desc,"Synchronize the rollback game on the current frame. This means that we will only proceed past the current frame if all inputs are confirmed. Returns true if successful, false if the current frame will be rerun.",在当前帧上同步回滚游戏。这意味着，只有在所有输入都得到确认的情况下，我们才能继续当前帧。如果成功，则返回 true；如果将重新运行当前帧，则返回 false。,,Drag and Dropâ„¢ library action description
 GMStdRollbackGetInfo_Name,Get info,源源不断获得信息,,Drag and Dropâ„¢ library action name
 GMStdRollbackGetInfo_Desc,This function returns a struct containing player_name and avatar_url for the player.,此功能返回一个包含玩家 player_name 和 avatar_url 的结构。,,Drag and Dropâ„¢ library action description
 ProgressBar_CopyFromCache,Copying from cache...,从缓存复制...,,the progress bar caption while copying the imported project from cache into a destination folder
