@@ -1,6 +1,6 @@
 {
   "name": "@localisation_plugins/chinese",
-  "version": "1.0.0",
+  "version": "{$MAJOR}.{$MINOR}.{$BUILD}",
   "description": "Chinese IDE localisations",
   "main": "index.js",
   "scripts": {
