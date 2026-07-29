@@ -2,7 +2,7 @@ Name,English,Translation,Restrictions,Comment
 __Priority,0,0,,Order of language importance. Allows other packs to supplement or replace sections
 _Argument0,{0},{0},,single unlocalised argument
 _Error,Error: {0},错误：{0},,General error prefix
-_Language,English,English,,Language name - in English
+_Language,English,Simplified Chinese,,Language name - in English
 _LanguageNative,English,简体中文(翻译),,Language name in the native language
 _LanguageCode,en,zh,,standard windows os language code this pack represents (can be primary code only ie. en or primary-secondary ie. en-GB)
 _GameMaker2016,GameMaker,GameMaker,,IDE title
