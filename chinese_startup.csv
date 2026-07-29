@@ -1,6 +1,6 @@
 Name,English,Translation,Restrictions,Comment
 _Language,English,Simplified Chinese,,Language name - in English
-_LanguageNative,English,Simplified Chinese,,Language name in the native language
+_LanguageNative,English,简体中文(翻译),,Language name in the native language
 _LanguageCode,en,zh,,standard windows os language code this pack represents (can be primary code only ie. en or primary-secondary ie. en-GB)
 _GameMaker2016,GameMaker,GameMaker,,IDE title
 Splash_Done,Done.,完成。,,Finished loading
